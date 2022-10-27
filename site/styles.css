@@ -1,0 +1,88 @@
+.shipping {
+    display: flex;
+    justify-content: center;
+    background: #F63D3D;
+    color: #FFFFFF;
+
+  }
+
+  .menu {
+    display: flex;
+    justify-content: space-between;
+    max-width: 1170px;
+    margin: 0 auto;
+    position: relative;
+    top: 29px;
+  }
+  .search {
+    width: 19px;
+    height: 19px;
+    position: relative;
+top: 15px;
+  }
+  .basket {
+   height: 14.77px;
+width: 21px;
+position: relative;
+top: 15px;
+  }
+
+  .profile {
+    width: 20px;
+    height: 20px;
+    position: relative;
+top: 15px;
+  }
+ .logo {
+   position: relative;
+    width: 157px;
+height: 80px;
+bottom: 30px;
+ }
+ .container {
+  max-width: 1600px;
+    margin: 0 auto;
+ }
+ .dog {
+  position: relative;
+  bottom: 1163px;
+  left: 785px;
+  z-index: 2;
+ }
+ .cat {
+  position: relative;
+  bottom: 1163px;
+  left: 115px;
+    z-index: 1;
+ }
+ .ellipse {
+  position: relative;
+  bottom: 1955px;
+  left: 649px;
+
+
+ }
+ .headertext {
+  position: relative;
+  left: 215px;
+  bottom: 700px;
+font-size: 48px;
+width: 345px;
+height: 102px;
+
+ }
+ .text {
+width: 380px;
+height: 185px;
+position: relative;
+ left: 215px;
+ bottom: 700px;
+ font-size: 20px;
+ line-height: 30px;
+ }
+ .ellipse2 {
+  position: relative;
+  bottom: 2860px;
+  left: 460px;
+
+ }
